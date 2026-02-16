@@ -1,0 +1,3 @@
+id,isbn,titulo,anio,fecha_adquisicion,prestado,usuario_id,fecha_prestamo
+4,0451524934,1984,1949,2022-11-01,1,1002,2025-12-01
+6,0394752848,Rayuela,1963,2023-09-05,1,1003,2025-11-15
